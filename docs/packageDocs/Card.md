@@ -2,7 +2,7 @@
 卡片组件
 
 ### 示例
-<Card imgSrc="/photo.png" summary="概要"></Card>
+<Card imgSrc="/rename-ui/photo.png" summary="概要"></Card>
 
 ### 代码
 ```html
