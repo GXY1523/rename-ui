@@ -28,6 +28,7 @@ module.exports={
     output:{
         filename:'[name].umd.js',
         path:path.resolve(__dirname,'dist'),
+        
         library:'mui',
         libraryTarget:'umd'
     },
